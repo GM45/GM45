@@ -100,21 +100,6 @@ philosophy: "Automate today. Scale tomorrow. Sleep well tonight."
 
 </div>
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=glennmuga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=glennmuga&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glennmuga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
 
 ---
 
